@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MnemonicBruteforcer", "MnemonicBruteforcer\MnemonicBruteforcer.csproj", "{43437428-8070-40B3-AAC1-A4007C347146}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BIP39.NETCORE", "BIP39.NET-Portable\BIP39.NETCORE.csproj", "{D6362DA4-A2AC-4931-8CC1-CF50D769AAFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43437428-8070-40B3-AAC1-A4007C347146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43437428-8070-40B3-AAC1-A4007C347146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43437428-8070-40B3-AAC1-A4007C347146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43437428-8070-40B3-AAC1-A4007C347146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6362DA4-A2AC-4931-8CC1-CF50D769AAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6362DA4-A2AC-4931-8CC1-CF50D769AAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6362DA4-A2AC-4931-8CC1-CF50D769AAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6362DA4-A2AC-4931-8CC1-CF50D769AAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C9DED32-0C2C-47B6-84B8-1BFFAD54C609}
+	EndGlobalSection
+EndGlobal
